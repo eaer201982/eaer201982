@@ -1,4 +1,11 @@
 ## Hi there 👋
+Seungwoo Yoo -- @DveloperY0115
+👋 Welcome to my Github profile!
+
+I'm a second-year Ph.D. student majoring in Computer Science at KAIST Visual AI Lab, advised by Prof. Minhyuk Sung. I received my B.S. degree in Computer Science (Major) and Electrical Engineering (Minor) at KAIST in Aug. 2023, and my M.S. degree at KAIST in Computer Science in Feb. 2025.
+
+Visit my personal webpage for more information.
+
 
 <!--
 **eaer201982/eaer201982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
